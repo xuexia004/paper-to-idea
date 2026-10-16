@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paper to Idea"
+  short_description: "从论文证据出发，挖掘可证伪的研究假设并设计低成本最小验证实验"
+  default_prompt: "使用 $paper-to-idea 分析这篇论文，从证据中提炼 Research Gap，提出可证伪假设并设计最小验证实验。"
